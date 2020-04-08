@@ -26,7 +26,6 @@
     <li> <a href="https://warun.in.th/1257-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-raspberry-pi?fbclid=IwAR2Z9zl8SZ95KUqqslB9M1LE0dYlg0LJ_KLUZGjEZ8gi_JnN25_2t9DP02U">ติดตั้ง Raspberry Pi แบบไม่ใช้จอ เมาส์ และ คีย์บอร์ด  </a></li>  
     <li> <a href="https://www.youtube.com/watch?v=x-3diiYzdG8">วิธีติดตั้ง windows 10 บน raspberry pi3+ </a></li>  
     <li> <a href="http://pdacontrolen.com/installation-of-raspbian-os-in-virtual-machine-virtualbox/?fbclid=IwAR3F-_HGT-1D5E5A99hxrLXchHziMQsp20t8Uyz9aTS7JnREY8VrVoRIQGo">Installation of Raspbian OS in Virtual Machine (Virtualbox) </a></li>  
-    
     <li> <a href="https://medium.com/@choonewza/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-mosquitto-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-raspberry-pi-d6c8ea57b441">การติดตั้ง Mosquitto ให้กับ Raspberry Pi 3 Model B+ เพื่อใช้เป็น MQTT Server </a></li>      
     <li> <a href="https://www.facebook.com/groups/rpi.th/permalink/2189075814679576/">Amiga บน Raspberry Pi </a></li>  
     <li> <a href="https://www.facebook.com/groups/rpi.th/permalink/2172891552964669/">Raspberry pi image </a></li>  
