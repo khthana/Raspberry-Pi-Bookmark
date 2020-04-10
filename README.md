@@ -35,6 +35,28 @@
     
 <h2>Project</h2>
 <ol>          
-    <li> <a href="https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation">First Installation Retro Pi </a></li>  
-    <li> <a href="https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation">First Installation Retro Pi </a></li>     
+    <li> <a href="https://www.cron.dk/poor-mans-bash-bunny/">Poor mans Bash Bunny </a></li>  
+    <li> <a href="https://www.raspberrypi.org/blog/facepunch-facial-recognition/">facepunch: the facial recognition punch clock</a></li>     
+    <li> <a href="https://medium.com/sathittham/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-google-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A-raspberry-pi-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%94-kit-88d81fd71752">สร้าง Google Assistant ด้วยตัวเองกับ Raspberry Pi แบบไม่ง้อชุด Kit </a></li>  
+    <li> <a href="https://peerajakwitoonchart.blogspot.com/2017/11/raspberry-pi-3b-video-streaming-server.html?m=1">การสร้าง Raspberry Pi 3b ให้กลายเป็น กล้องวงจรปิด</a></li>  
+    <li> <a href="https://medium.com/sathittham/%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%88-ai-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-aiy-projects-voice-kit-2e03bbac28ba">ก้าวแรกสู่ AI ด้วย AIY Projects — Voice Kit </a></li>  
+    <li> <a href="https://www.hackster.io/hackershack/smart-security-camera-90d7bd">Smart Security Camera </a></li>  
+    <li> <a href="https://www.hackster.io/Salmanfarisvp/googlepi-google-assistant-on-raspberry-pi-9f3677?ref=explore&ref_id=recent_7days__&offset=4">GooglePi - Google Assistant on Raspberry Pi  </a></li>  
+    <li> <a href="https://hackaday.io/projects?tag=raspberry%20pi">1393 Projects tagged with "raspberry pi" </a></li>  
+    <li> <a href="https://www.instructables.com/id/Raspberry-Pi-Projects/">Raspberry Pi Projects</a></li>  
+    <li> <a href="https://www.instructables.com/id/Raspberry-Pi-Arduino-Based-Simple-Blind-Navigation/?utm_content=buffer12e28&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer">Raspberry Pi-Arduino Based Simple Blind Navigation Device (AIDA2) </a></li>  
+    <li> <a href="http://doc.inex.co.th/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%84%e0%b8%a5%e0%b8%b7%e0%b9%88%e0%b8%ad/">การแจ้งเตือนความเคลื่อนไหวผ่าน Facebook โดยใช้ RaspberryPi 3 และ PIR </a></li>  
+    <li> <a href="https://www.instructables.com/id/Raspberry-Pi-Wall-Mounted-Calender-and-Notificatio/">Raspberry Pi: Wall Mounted Calendar and Notification Center </a></li>  
+    <li> <a href="https://www.techtalkthai.com/learn-public-key-cryptography-with-octapi-on-raspberry-pi/">เรียนรู้เทคโนโลยี Public Key Cryptography ด้วยตนเองโดย OctaPi บน Raspberry Pi </a></li>  
+    <li> <a href="https://github.com/somchaisomph/morning_glory?fbclid=IwAR1egKyfko4lDiyDlZh68oCXYnwWa0bi1uvC9FySpn-CqsCLic7TZhl8esA">face recognition แบบง่าย </a></li>  
+    <li> <a href="https://magpi.raspberrypi.org/articles/pi-zero-w-smart-usb-flash-drive">Make a Pi Zero W Smart USB flash drive </a></li>  
+    <li> <a href="https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget?view=all">Turning your Raspberry Pi Zero into a USB Gadget </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=htVdRZN5JjY&fbclid=IwAR14txZNGr33CyqHaochKPr9PnMp1gYwJvBfyOoLYIXwLkHo85xzFvMK2xQ">Raspberry PI Amazon Alexa Voice Service</a></li>  
+    <li> <a href="https://github.com/bennington-hardware-hacking-2019/pos_system?fbclid=IwAR3Hgahpg6bym9rjvcjqTe05mdR6fVUS2J_G7oLLns9heGSLCMPKBfClMvc">Automated Point of Sale System using NFC </a></li>  
+    <li> <a href="https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/?fbclid=IwAR1Mk6cGahGDLBwnCrlMNRxU9S2_89O8jdJuILICAfj5fzZGUmN3_j1MszQ">Build an air quality monitor with InfluxDB, Grafana, and Docker on a Raspberry Pi </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=npZ-8Nj1YwY&fbclid=IwAR1TDGY5NwwZaOI-HAYQLEoPIWlhrNaUHgy2vGDWaabDUdWUuCDcG6LHvWo">How to Set Up TensorFlow Object Detection on the Raspberry Pi </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=Kt68Szn-G-0">Raspberry Pi - How to Fix wifi SSID and IP </a></li>  
+    <li> <a href="https://medium.com/@kewinrueangraklikhit/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%99-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2-%E0%B8%AD%E0%B8%AD%E0%B8%81-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-raspberry-pi-7903c9478c50">การนับคน เข้า/ออก ประตู ด้วย Raspberry pi </a></li>  
+    <li> <a href="https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi?fbclid=IwAR16ISxz3OH0FBF5UZWXyUJU3Q3AQgigFcy0as5JUB4J1tX5IJu_IG3gXwg">TensorFlow-Object-Detection-on-the-Raspberry-Pi </a></li>      
+   
 </ol>      
