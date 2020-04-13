@@ -60,3 +60,19 @@
     <li> <a href="https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi?fbclid=IwAR16ISxz3OH0FBF5UZWXyUJU3Q3AQgigFcy0as5JUB4J1tX5IJu_IG3gXwg">TensorFlow-Object-Detection-on-the-Raspberry-Pi </a></li>      
    
 </ol>      
+
+<h2>NodeRed</h2>
+<ol>          
+    <li> <a href="http://www.eduthaieasyelec.com/16623242/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-node-red-%E0%B8%9A%E0%B8%99-raspberry-pi?fbclid=IwAR3WDNUxzYe2M38Eb1lOfXk5VRZ1GD3b57JZUuitv5SqGSI9pCF5fUAZ-KU">การใช้งาน Node-RED บน Raspberry Pi </a></li>  
+    <li> <a href="https://medium.com/@benz20003/%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B9%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1-flow-based-programming-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-node-red-47d96f23d614">ลากวางก็ได้โปรแกรม flow-based programming ด้วย Node-RED </a></li>  
+    <li> <a href="http://noderedguide.com/">Node RED Programming Guide </a></li>  
+    <li> <a href="http://thaiopensource.org/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-node-red-%E0%B8%81%E0%B8%B1%E0%B8%99/">มาเล่น Node-RED กัน </a></li>      
+    <li> <a href="https://medium.com/deaware/node-red-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95-1880-%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B2%E0%B8%87-reverse-proxy-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-nginx-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95-80-%E0%B8%81%E0%B8%B1%E0%B8%99-dfe0d94e1d81">Node-RED ทำไมต้องใช้พอร์ต 1880 มาทดลองวาง Reverse Proxy ด้วย NGINX เพื่อใช้พอร์ต 80 กัน </a></li>  
+    <li> <a href="https://medium.com/mmp-li/node-red-dashboard-%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-node-red-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B8%A7-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B5-2018-23345af6bf5d">Node-RED DashBoard ทำเว็บด้วย Node-RED โดยไม่เขียนโค้ดสักตัว ฉบับปี 2018 ! </a></li>  
+    <li> <a href="https://medium.com/mmp-li/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87-blynk-%E0%B8%81%E0%B8%B1%E0%B8%9A-node-red-54f67433805b">ประกอบร่าง Blynk กับ Node-RED !! </a></li>  
+
+</ol>
+    
+<h2>ทั่วไป</h2>
+<ol>        
+    <li> <a href="https://www.cron.dk/poor-mans-bash-bunny/">Poor mans Bash Bunny </a></li>       
