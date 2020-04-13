@@ -76,7 +76,7 @@
 <h2>ทั่วไป</h2>
 <ol>        
     <li> <a href="https://nanpy.github.io/">Nanpy </a></li>       
-    <li> <a href="https://maxmacstn.wordpress.com/2018/06/20/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-smart-home-%e0%b8%84%e0%b8%a7%e0%b8%9a%e0%b8%84%e0%b8%b8%e0%b8%a1%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-siri-alexa-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-ra-2/?fbclid=IwAR3EZQ4PikcuU13sBHUUZcJ4ylb_Ir_P1qIUqvOVK_FoVtL9gNI2eKSYVgs"สร้าง Smart Home ควบคุมด้วย Siri/Alexa ด้วย Raspberry Pi ตอน 2 – ควบคุมเครื่องใช้ไฟฟ้าด้วย Relay </a></li>  
+    <li> <a href="https://maxmacstn.wordpress.com/2018/06/20/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-smart-home-%e0%b8%84%e0%b8%a7%e0%b8%9a%e0%b8%84%e0%b8%b8%e0%b8%a1%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-siri-alexa-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-ra-2/?fbclid=IwAR3EZQ4PikcuU13sBHUUZcJ4ylb_Ir_P1qIUqvOVK_FoVtL9gNI2eKSYVgs">สร้าง Smart Home ควบคุมด้วย Siri/Alexa ด้วย Raspberry Pi ตอน 2 – ควบคุมเครื่องใช้ไฟฟ้าด้วย Relay </a></li>  
     <li> <a href="https://medium.com/@avik.das/writing-gui-applications-on-the-raspberry-pi-without-a-desktop-environment-8f8f840d9867">Writing GUI applications on the Raspberry Pi without a desktop environment </a></li>  
     <li> <a href="http://thaiopensource.org/circuitpython-vs-micropython-%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%95%e0%b8%81%e0%b8%95%e0%b9%88/?fbclid=IwAR17--mXxpU0QQRt2AuIwoz2AXcrWRGfKIZ0ic0AbvSserG-D9gGLXLvBag">CircuitPython vs MicroPython : ความเหมือนที่แตกต่าง </a></li>  
     <li> <a href="http://doc.inex.co.th/raspberry-pi3-for-technical-collage-2016/">เฉลยโจทย์การแข่งขันทักษะไมโครคอนโทรลเลอร์ระดับภาค 2559 </a></li>       
