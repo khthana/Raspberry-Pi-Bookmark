@@ -17,8 +17,8 @@
     <li> <a href="https://www.youtube.com/watch?v=6Z6vs1SqNts"> Embedded Deep Learning คมเดช </a></li>    
     <li> <a href=https://www.elinux.org/RPi_Bluetooth_LE"> Raspberry Pi Bluetooth อื่นๆ มี bluepy, pygatt</a></li>
     <li> <a href="https://www.facebook.com/comdet/posts/2262777887073086"> ติดตั้ง MXNet + Tensorflow บน Raspberry Pi 3</a></li>   
-    <li> <a href="https://pi-hole.net/ "> Pi-hole® A black hole for Internet advertisements</a></li>
-    <li> <a href="https://pi-hole.net/ "> Pi-hole® A black hole for Internet advertisements</a></li>   
+    <li> <a href="https://www.raspberrypi.org/blog/gpio-expander/"> GPIO expander: access a Pi’s GPIO pins on your PC/Mac</a></li>
+    <li> <a href="https://peerajakwitoonchart.blogspot.com/2017/11/raspberry-pi-3b-video-streaming-server.html?m=1 "> การสร้าง Raspberry Pi 3b ให้กลายเป็น กล้องวงจรปิด Video Streaming Server ด้วย RTSP โปรโตคอล</a></li>   
     <li> <a href="https://pi-hole.net/ "> Pi-hole® A black hole for Internet advertisements</a></li>
     <li> <a href="https://pi-hole.net/ "> Pi-hole® A black hole for Internet advertisements</a></li>       
 </ol>     
