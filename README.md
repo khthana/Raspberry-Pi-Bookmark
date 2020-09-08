@@ -37,7 +37,8 @@
     
 <h2>Project</h2>
 <ol>          
-    <li> <a href="https://www.cron.dk/poor-mans-bash-bunny/">Poor mans Bash Bunny </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=BR_yko0gr-Y">Making a Digital Dashboard! </a></li>  
+    <li> <a href="https://www.cron.dk/poor-mans-bash-bunny/">Poor mans Bash Bunny </a></li>      
     <li> <a href="https://www.raspberrypi.org/blog/facepunch-facial-recognition/">facepunch: the facial recognition punch clock</a></li>     
     <li> <a href="https://medium.com/sathittham/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-google-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A-raspberry-pi-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%94-kit-88d81fd71752">สร้าง Google Assistant ด้วยตัวเองกับ Raspberry Pi แบบไม่ง้อชุด Kit </a></li>  
     <li> <a href="https://peerajakwitoonchart.blogspot.com/2017/11/raspberry-pi-3b-video-streaming-server.html?m=1">การสร้าง Raspberry Pi 3b ให้กลายเป็น กล้องวงจรปิด</a></li>  
