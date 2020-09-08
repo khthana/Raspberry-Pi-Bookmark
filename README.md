@@ -31,7 +31,8 @@
     <li> <a href="http://pdacontrolen.com/installation-of-raspbian-os-in-virtual-machine-virtualbox/?fbclid=IwAR3F-_HGT-1D5E5A99hxrLXchHziMQsp20t8Uyz9aTS7JnREY8VrVoRIQGo">Installation of Raspbian OS in Virtual Machine (Virtualbox) </a></li>  
     <li> <a href="https://medium.com/@choonewza/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-mosquitto-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-raspberry-pi-d6c8ea57b441">การติดตั้ง Mosquitto ให้กับ Raspberry Pi 3 Model B+ เพื่อใช้เป็น MQTT Server </a></li>      
     <li> <a href="https://www.facebook.com/groups/rpi.th/permalink/2189075814679576/">Amiga บน Raspberry Pi </a></li>  
-    <li> <a href="https://www.facebook.com/groups/rpi.th/permalink/2172891552964669/">Raspberry pi image </a></li>  
+    <li> <a href="https://www.facebook.com/groups/rpi.th/permalink/2172891552964669/">Raspberry pi image </a></li> 
+    <li> <a href="https://github.com/pikvm/ustreamer">very quick server to stream MJPG video </a></li>   
     <li> <a href="https://www.ioxhop.com/article/95/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-raspberry-pi-zero-w?fbclid=IwAR2j4L8AvhNpuI1Lyt16M0Wq9_FkUnz8WX8PTI9mnfTBQ2w1GQTk91gbDek">ลองเล่นบอร์ด Raspberry Pi Zero W </a></li> 
     <li> <a href="https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/?fbclid=IwAR1KxQYnKFgoZtPSHrGQ87Ste0kNcAPIKYN5D0epYnREG3nSZgoxRePOPyI">Install OpenCV 4 on your Raspberry Pi </a></li>  
 </ol>    
