@@ -13,7 +13,8 @@
 
 <h2>Install Software</h2>
 <ol>      
-    <li> <a href="https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation">First Installation Retro Pi </a></li> 
+    <li> <a href="https://medium.com/sathittham/%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%88-ai-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-aiy-projects-voice-kit-2e03bbac28ba">[G-Assistant] ก้าวแรกสู่ AI ด้วย AIY Projects — Voice Kit </a></li> 
+    <li> <a href="https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation">First Installation Retro Pi </a></li>     
     <li> <a href="https://github.com/t0xic0der/sysmon"> system performance monitoring and task management tool for servers and headless Raspberry Pi setups </a></li> 
      <li> <a href="https://www.makerasia.com/opencv4-%e0%b8%9a%e0%b8%99-raspberry-pi4/?fbclid=IwAR0ZMG9Tqu0Ke8xf998K-IvMXVwNnA0KQj0KG_9-Lectyxkmmib-MhDh62o">จับมือติดตั้ง OpenCV4 บน Raspberry Pi4 แบบไม่มีคำว่าลงไม่ได้ </a></li> 
     <li> <a href="https://raspberrypi-thailand.blogspot.com/2016/06/retro-game-raspberry-pi.html">เล่น Retro Game บน Raspberry PI </a></li>     
